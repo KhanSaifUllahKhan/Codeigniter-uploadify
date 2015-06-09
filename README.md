@@ -1,7 +1,7 @@
 Codeigniter-uploadify
 =====================
 
-An implementation of uploadify with Codeigniter
+An implementation of uploadify in Codeigniter
 
 This is a full 2.1.2 install of Codeigniter with Uploadify 3.1 integrated into it. This is a fairly convoluted procedure that I didn't want to spend hours explaining on the Codeigniter forums, so I just made a fresh Codeigniter install and dumped the necessary stuff in.
 
@@ -43,4 +43,4 @@ I initially wanted to commit just the necessary files, but this will certainly s
 
 Todo:
 
-I'm planning to do an Amazon S3 example as well.
+I'm planning to send all the details of the uploaded file to DB.
